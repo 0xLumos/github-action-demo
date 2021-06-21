@@ -5,7 +5,7 @@ name: Single-Stage
 
 on:
   push:
-    branches: ['mater']
+    branches: ['master']
   pull_request:
     branches: ['none']
 jobs:
